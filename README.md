@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarcastic-pig
-- 👀 I’m interested in back end development
-- 🌱 I’m currently learning python
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently learning python and javascript
 - 📫 How to reach me 1005145q@gmail.com
 
 <!---
